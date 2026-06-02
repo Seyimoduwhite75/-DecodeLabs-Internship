@@ -97,3 +97,66 @@ To explore the dataset and extract meaningful insights using descriptive statist
 
 Data visualization and storytelling to effectively communicate insights.
 
+
+# Week 4: Data Visualization with Python
+
+## 📌 Overview
+
+This project focuses on visualizing data using Python to uncover insights and communicate findings effectively. Data visualization plays a key role in transforming analysis into actionable insights.
+
+## 🎯 Objective
+
+To create clear, insightful, and visually appealing charts that highlight trends, patterns, and key observations from the dataset.
+
+## 🛠️ Tools & Libraries Used
+
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+
+## Visualizations Created
+
+The following visualizations were developed:
+
+* **Line Charts** – to show trends and patterns over time
+* **Bar Charts** – to compare values across different categories
+* **pie chart** – to understand data distribution
+<img width="515" height="411" alt="pie chart" src="https://github.com/user-attachments/assets/8261aabc-04c1-41de-8d0f-bafaed3a5ca5" />
+<img width="567" height="455" alt="quatity" src="https://github.com/user-attachments/assets/c921adc0-9c04-4dff-9f21-483ec12dd598" />
+<img width="580" height="455" alt="yearly trend" src="https://github.com/user-attachments/assets/84e6b1cf-00bd-4f8b-a2a8-d04061493905" />
+<img width="597" height="488" alt="product" src="https://github.com/user-attachments/assets/281f8244-112f-4270-b2cf-e5b1061a8379" />
+<img width="571" height="488" alt="line quantity" src="https://github.com/user-attachments/assets/16cf05d2-2506-4589-8ab4-916a1712ac4f" />
+
+
+## Key Insights
+
+* Identified trends and patterns within the dataset
+* Highlighted differences between categories
+* Detected outliers affecting the data distribution
+* Improved understanding of data through visual storytelling
+
+##  Visualization Approach
+
+* Selected appropriate chart types based on the data
+* Focused on clarity, readability, and simplicity
+* Added titles, labels, and legends for better interpretation
+* Ensured visuals effectively communicate insights
+
+##  Key Learnings
+
+* Visualization enhances the impact of data analysis
+* Choosing the right chart is critical for storytelling
+* Python provides flexibility and powerful customization for visuals
+
+##  Project Structure
+
+* `data/` → Raw and cleaned datasets
+* `notebooks/` → Jupyter notebooks with analysis and visualization
+* `images/` → Exported charts and visualizations
+
+##  Next Steps
+
+Building interactive dashboards and deploying data projects for real-world use.
+
+
